@@ -1,2 +1,6 @@
 # my-first-program
 this is my first github repository
+
+
+i am a cute coder...
+i like to read books and play game...
